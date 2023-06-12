@@ -1,1 +1,1 @@
-# convert-image-to-grayscale
+# convert-video-to-grayscale
